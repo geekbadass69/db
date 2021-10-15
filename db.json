@@ -37,8 +37,8 @@
       "description": "keep our home nice and clean.",
       "location": "All over the World",
       "date": "August 23, 2022",
-      "time": "11:00",
-      "organizer": "God"
+      "time": "1:00",
+      "organizer": "Ross Todd"
     },
     {
       "id": 791,
@@ -46,7 +46,7 @@
       "title": "Canned Food Drive,
       "description": "Helping homeless to get some food.",
       "location": "homless town usa",
-      "date": "September 23, 2022",
+      "date": "September 23, 2023",
       "time": "11:00",
       "organizer": "God"
     },
@@ -56,9 +56,9 @@
       "title": "Highway Cleanup",
       "description": "Pick up trash on major highways.",
       "location": "New York State",
-      "date": "Novebmer 23, 2022",
-      "time": "11:00",
-      "organizer": "God"
+      "date": "Novebmer 23, 2024",
+      "time": "2:00",
+      "organizer": "Ross Todd"
     }
   ]
 }

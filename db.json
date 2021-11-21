@@ -49,6 +49,16 @@
       "date": "August 25, 2022",
       "time": "2:00",
       "organizer": "Ross Todd"
+    },
+    {
+      "id": 792,
+      "category": "Fodd for the poor",
+      "title": "Food distribution to the poor",
+      "description": "Feeding people.",
+      "location": "All over the nation",
+      "date": "Septemeber 18, 2022",
+      "time": "2:00",
+      "organizer": "Ross Todd"
     }
   ]
 }
